@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nsuami
+- 👋 Hi, I’m Didier
 - 👀 I’m interested in Software Development 
 - 🌱 I’m currently a student at Thinkful
 - 💞️ I’m looking to collaborate on any Software project.
